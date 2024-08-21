@@ -1,0 +1,4 @@
+{
+    "port": "4040",
+    "autoRentUri": "mongodb+srv://username:password@firstcluster1.p8r4h.mongodb.net/autoRentMongo"
+}
